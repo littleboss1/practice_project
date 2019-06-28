@@ -38,8 +38,8 @@ def Get_s3server(A,B,C,D):
         conn.close()
 
 
-s3_pek3= {"host":"s3.pek3b.qingstor.com","ak":"xxx","sk":"xxx","bucket":"xxxbucket"}
-s3_gd = {"host":"s3.gd2.qingstor.com","ak":"xxx","sk":"xxx","bucket":"xxxbucket"}
+s3_pek3= {"host":"s3.xxx.qingstor.com","ak":"xxx","sk":"xxx","bucket":"xxxbucket"}
+s3_gd = {"host":"s3.xxx.qingstor.com","ak":"xxx","sk":"xxx","bucket":"xxxbucket"}
 
 
 try:
