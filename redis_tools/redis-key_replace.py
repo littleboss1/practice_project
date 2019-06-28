@@ -1,10 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
+#author=little boss
 
-# In[86]:
 
-
-#!/usr/bin/python
 # 操作前做好redis数据备份
 import redis
 import re

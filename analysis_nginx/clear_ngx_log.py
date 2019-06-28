@@ -1,6 +1,8 @@
 
 #!/usr/bin/env python
 #!coding=utf-8
+#author=little boss
+
 import os
 import time
 import datetime

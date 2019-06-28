@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
+#author=little boss
 
 import sys
 from rediscluster import StrictRedisCluster

@@ -1,4 +1,6 @@
 #!/bin/bash
+#author=little boss
+
 cat /etc/hosts | grep web | awk '{print $2}' >log_host
 dd=`date +"%Y_%m_%d"`
 log_time=`date +"%Y_%m_%d %H:%M:%S"`
