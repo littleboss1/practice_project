@@ -37,7 +37,7 @@ def add_deny_ip(log_path):
                             else:
                                 logging.info("将 %s 添加到黑名单列表失败" % (ip[0]))
                 point = fs_log.tell()
-                logging.info("当前point是%s" % (point))
+                #logging.info("当前point是%s" % (point))
                 time.sleep(60)
                 if len(ips) > 500:
                     ips = []
